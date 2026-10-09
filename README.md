@@ -3,6 +3,7 @@
 📚LLM learning notes — before my 7-second memory forgets it all
 
 - base
+    + [] Tokenizer & Embedding
     + [] transformer
     + [] kv cache
     - GPU Architecture
